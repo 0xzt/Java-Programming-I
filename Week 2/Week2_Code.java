@@ -73,8 +73,7 @@ public class CodeAssignment {
             break;
         }
 
-        // LINE 2. SWITCH CODE TO PRINT CORRECT "SHAPE" MESSAGE BASED ON USER INPUT GOES
-        // HERE
+        // LINE 2. SWITCH CODE TO PRINT CORRECT "SHAPE" MESSAGE BASED ON USER INPUT GOES HERE
         if (numberOfAngles == 3 || numberOfAngles == 4 || numberOfAngles == 5) {
             System.out.println("A " + shapeName + " has " + numberOfAngles + " sides.");
         } else {
