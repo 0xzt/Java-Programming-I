@@ -1,7 +1,7 @@
 /**********************************************************************
 * Program:  PRG/420 Week 2 
 * Purpose:     Week 2 Coding Assignment
-* Programmer:  Zack Taylor        
+* Programmer:  Zachary Taylor        
 *  Class:       PRG/420       
 *  Creation Date:  6/13/19
 *********************************************************************
